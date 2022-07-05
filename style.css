@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+  background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC6drQJIEQSPsN5YTgu188b69ErFzxT77clA&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 30px;
+  padding-bottom:20px;
+}
+
+.i1{
+  height: 100px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+.i2{
+  height: 400px;
+  width: 300px;
+  border-radius: 20px;
+}
+ul{
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list1{
+  font-size:10px;
+}
+
+.list2{
+  font-size:40px;
+}
+
+a{
+  padding: 15px;
+}
